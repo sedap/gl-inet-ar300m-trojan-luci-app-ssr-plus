@@ -1,5 +1,6 @@
 
-The following are the files needed to install trojan-gfw luci-app-ssr-plus and shadowsockrs on the GL-Inet AR300M / AR300M-Ext NAND version device firmware version 3.201 or OpenWRT 19.07.7
+
+The following are the files needed to install trojan-gfw [luci-app-ssr-plus](https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-ssr-plus) and shadowsockrs on the GL-Inet AR300M / AR300M-Ext NAND version device firmware version 3.201 or OpenWRT 19.07.7
 
 ## How to install :
 Copy the following files to the GL-Inet AR300M-Ext device, you can use SFTP or SCP
