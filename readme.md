@@ -1,5 +1,5 @@
 
-The following are the files needed to install trojan-gfw luci-app-ssr-plus and shadowsockrs on the GL-Inet AR300M / AR300M-Ext NAND version device
+The following are the files needed to install trojan-gfw luci-app-ssr-plus and shadowsockrs on the GL-Inet AR300M / AR300M-Ext NAND version device firmware version 3.201 or OpenWRT 19.07.7
 
 ## How to install :
 Copy the following files to the GL-Inet AR300M-Ext device, you can use SFTP or SCP
@@ -7,8 +7,9 @@ Copy the following files to the GL-Inet AR300M-Ext device, you can use SFTP or S
 `opkg install luci luci-compat luci-app-ssr-plus_180-10_all.ipk shadowsocksr-libev-alt_2.5.6-5_mips_24kc.ipk pdnsd-alt_1.2.9b-par-a8e46ccba7b0fa2230d6c42ab6dcd92926f6c21d_mips_24kc.ipk microsocks_1.0-1_mips_24kc.ipk dns2socks_2.1-1_mips_24kc.ipk shadowsocks-libev-ss-local_3.2.5-5_mips_24kc.ipk shadowsocksr-libev-ssr-local_2.5.6-5_mips_24kc.ipk shadowsocks-libev-ss-redir_3.2.5-5_mips_24kc.ipk simple-obfs_0.0.5-5_mips_24kc.ipk tcping_0.3-1_mips_24kc.ipk shadowsocks-libev-config_3.2.5-5_mips_24k
 c.ipk  trojan_1.16.0-1_mips_24kc.ipk`
 
-
-## List of Files :
+## All Files in 7z format:
+- ALL_IPKs_GL-Inet AR300M-19.07.7
+## List of Individual Files :
 - badvpn_1.999.130-1_mips_24kc.ipk
 - bzip2_1.0.8-1_mips_24kc.ipk
 - devlink_5.0.0-2.1_mips_24kc.ipk
