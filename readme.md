@@ -13,7 +13,8 @@ c.ipk  trojan_1.16.0-1_mips_24kc.ipk`
 
 ## All Files in 7z format:
 - ALL_IPKs_GL-Inet AR300M-19.07.7
-## List of Individual Files :
+
+## List of Files :
 - badvpn_1.999.130-1_mips_24kc.ipk
 - bzip2_1.0.8-1_mips_24kc.ipk
 - devlink_5.0.0-2.1_mips_24kc.ipk
